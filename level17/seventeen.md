@@ -15,3 +15,11 @@
 - Component variants with `@apply`
 - Combining utilities in custom classes
 
+inline-flex items-center px-3 py-1 rounded-full text-sm font-semibold bg-green-100 text-green-800
+
+max-w-md mx-auto
+
+bg-white rounded-lg shadow-lg p-6
+
+border-2 border-gray-300 rounded-lg px-4 py-2 focus:border-blue-500 focus:outline-none w-full mb-4
+
